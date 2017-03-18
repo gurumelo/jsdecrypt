@@ -81,7 +81,7 @@ npm install jsdecrypt
 
 Copy the private key, in the "privkey" variable
 ```
-cat privada.key
+cat private.key
 ```
 
 
