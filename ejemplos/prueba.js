@@ -1,4 +1,4 @@
-var jsdecrypt = require('./index.js');
+var jsdecrypt = require('../index.js');
 
 var lallaveprivada = '-----BEGIN RSA PRIVATE KEY-----\n\
 MIICXAIBAAKBgQCenqBKWqSbqJ4mARAQENYs6lM+uiaoNknhv9bnpsmevuBVLnoV\n\
