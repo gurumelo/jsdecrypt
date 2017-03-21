@@ -118,8 +118,3 @@ console.log(jsdecrypt.dec(privkey, cryptham));
 https://www.npmjs.com/package/jsdecrypt
 
 https://github.com/gurumelo/jsdecrypt
-
-
-certtool -p --outfile=ultra.key --sec-param=ultra
-certtool --pubkey-info --load-privkey=privada.out
-
